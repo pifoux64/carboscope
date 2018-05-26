@@ -1,0 +1,356 @@
+/*basic reset*/
+* {margin: 0; padding: 0;}
+
+html {
+	height: 100%;
+	/*Image only BG fallback*/
+	
+	/*background = gradient + image pattern combo*/
+
+}
+
+/* BODY */
+body {
+	color: Black;
+	
+	background: -webkit-linear-gradient( right, #76b852, #8DC26F);
+	background:    -moz-linear-gradient( right, #76b852, #8DC26F);
+	background:     -ms-linear-gradient( right, #76b852, #8DC26F);
+	background:      -o-linear-gradient( right, #76b852, #8DC26F);
+	background:         linear-gradient( to left, #76b852, #8DC26F);
+    /* background: linear-gradient(#76b852, #8DC26F); */
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 13px;
+    font-family: montserrat, arial, verdana;
+     }
+ 
+p {
+        padding: 7px;
+}
+
+/* FORMULAIRE */
+form {
+ padding: 7px;    
+}
+
+
+h2
+{
+	font-size: 25px;
+	text-transform: uppercase;
+	font-weight: 300;
+	text-align: center;
+	color: #130a06;
+	border-bottom: 1px solid #130a06;
+	padding-bottom: 3px;
+	margin-bottom: 20px;
+}
+
+/* balises INPUT */
+/*input {
+    background-color: #FAFAFA;
+    -webkit-appearance
+    border: 1px dotted #999;
+    border-radius: 7px;
+    color: Black;
+    font-style: italic;
+}
+*/
+ 
+/* balises spéciales dans le DIV des boutons */
+#submit input {
+    font-weight: bold;
+    font-style: normal;
+    background-color: #D1D7DC;
+    color: Black;
+    border-color: Black;
+	padding: 0px 10px 0px 10px;
+	text-align: center;
+	align-content: center;
+    border-width: 2px;
+}
+
+
+
+/* le reste du DIV des boutons */
+#submit {
+    width: 400px;
+	text-align: center;
+	align-content: center;
+}
+ 
+/* FIELDSET : bloc du formulaire */
+.form fieldset {
+    border: solid;
+    border-width: 1px;
+    border-color: Black;
+    width: 400px;
+    padding: 15px 10px 10px 10px;
+    margin: 0px 0px 15px 0px;
+    background-color: White;
+    color: Black;
+}
+ 
+/* LEGEND : titre */
+.form legend {
+    border: solid;
+    border-width: 1px;
+    border-color: Black;
+    padding: 5px;
+    background-color: #6389D8;
+    font-weight: bold;
+    color: White;
+    font-size: 14px;
+}
+ 
+/* LABEL : élements du formulaire */
+.form label {
+    display: block;
+    margin: 5px 0px 5px 0px;
+    text-align: right;
+}
+
+
+ 
+
+.nav-item-right
+{
+    position: absolute;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+}
+
+.nav-link
+{
+    color: green;
+}
+
+
+a.info em 
+{
+display:none;
+}
+   
+a.info:hover 
+{
+border: 0;
+position: absolute;
+width: 80px;
+height: auto;
+z-index: 500;
+text-decoration:none;
+}
+   
+a.info:hover em {
+
+display: block;
+position: absolute;
+padding: 5px;
+color: #000;
+border: 2px solid #bbb;
+background: #ffc;
+border-radius: 7px 7px 7px 7px;
+}
+
+.calculator
+{
+border: solid;
+border-width: 1px;
+border-color: black;
+border-radius: 7px 7px 7px 7px;
+padding: 5px;
+}
+
+.tableauconv th,.tableauconv td 
+{
+    border-collapse: collapse;
+    border-spacing:0; 
+    border: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 7px 7px 7px 7px;
+}
+
+.msform {
+	width: 90%;
+	margin: 50px auto;
+	text-align: center; 
+	position: relative; 
+}
+.msform fieldset {
+	background: white;
+	border: 0 none;
+	border-radius: 3px;
+	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+	padding: 20px 30px;
+	box-sizing: border-box;
+	width: 100%;
+
+	text-align: left; 
+	
+	/*stacking fieldsets above each other*/
+	position: relative;
+}
+/*Hide all except first fieldset*/
+.msform fieldset:not(:first-of-type) {
+	display: none;
+}
+/*inputs*/
+.msform input, .msform textarea {
+	padding: 15px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	margin-bottom: 10px;
+	/* width: 100%; */
+	box-sizing: border-box;
+	font-family: montserrat;
+	color: #2C3E50;
+	font-size: 13px;
+}
+
+.radios {
+	display : flex;
+	align-content: center;
+}
+
+
+/*buttons*/
+.msform .action-button {
+	width: 100px;
+	background: #27AE60;
+	font-weight: bold;
+	color: white;
+	border: 0 none;
+	border-radius: 1px;
+	cursor: pointer;
+	padding: 10px 5px;
+	align-content: center;
+	margin: 10px 5px;
+}
+
+.button {
+	text-align: center;
+	position: relative;
+}
+
+.msform .action-button:hover, #msform .action-button:focus {
+	box-shadow: 0 0 0 2px white, 0 0 0 3px #27AE60;
+}
+/*headings*/
+.fs-title {
+	font-size: 20px;
+	text-transform: uppercase;
+	color: #2C3E50;
+	margin-bottom: 10px;
+}
+.fs-subtitle {
+	font-weight: normal;
+	font-size: 13px;
+	color: #666;
+	margin-bottom: 20px;
+}
+/*progressbar*/
+#progressbar {
+	margin-bottom: 30px;
+	overflow: hidden;
+	/*CSS counters to number the steps*/
+	counter-reset: step;
+
+}
+#progressbar li {
+	list-style-type: none;
+	color: white;
+	text-transform: uppercase;
+	font-size: 9px;
+	width: 20%;
+	float: left	;
+	position: relative;
+}
+#progressbar li:before {
+	content: counter(step); 
+	counter-increment: step; 
+	width: 20px;
+	line-height: 20px;
+	display: block;
+	font-size: 10px;
+	color: #333;
+	background: white;
+	border-radius: 3px;
+	margin: 0 auto 5px auto;
+}
+/*progressbar connectors*/
+#progressbar li:after {
+	content: '';
+	width: 100%;
+	height: 2px;
+	background: white;
+	position: absolute;
+	left: -50%;
+	top: 9px;
+	z-index: -1; /*put it behind the numbers*/
+}
+#progressbar li:first-child:after {
+	/*connector not needed before the first step*/
+	content: none; 
+}
+/*marking active/completed steps green*/
+/*The number of the step and the connector before it = green*/
+#progressbar li.active:before,  #progressbar li.active:after{
+	background: #27AE60;
+	color: white;
+}
+
+.tg {
+	display : flex;
+	align-content: center;
+}
+
+#menusup{
+	position: fixed;
+	top:0;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	position: fixed;
+	text-align: right; 
+}
+.fixedTop{
+	position: fixed;
+	top:0;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#progressbar a{
+	color: white;
+}
+
+ul.notes-echelle {
+	margin:0;
+	padding:0;
+	font:.75em/1.2 Arial, Helvetica, sans-serif;
+}
+ul.notes-echelle li {
+	float:left;
+	margin:0;
+	padding:0;
+	list-style:none;
+	min-width:20px;
+	min-height:20px;
+}
+/* Correctif IE6 sur min-width & min-height */
+* html ul.notes-echelle.js li {
+	width:20px;
+	height:20px;
+}
+ul.notes-echelle li label {
+	display:block;
+	text-align:center;
+	line-height:20px;
+	background:url(leaf.png) center top no-repeat;
+	background-size: 20px;
+	cursor:pointer;
+}
+

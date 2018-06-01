@@ -6,16 +6,16 @@ require_once('header.inc.php');
 
 ?>
 
-
+                 
     <form name="myform" class="msform" action="procedesindus.php" method="post" enctype="multipart/form-data">
 
     <!-- progressbar -->
     <ul id="progressbar">
-    <li class="active"><a href="presentation.php" onclick="document.myform.submit();">Présentation</a></li>
-    <li class="active"><a href="batiment.php" onclick="document.myform.submit();">Bâtiment</a></li>
-    <li class="active"><a href="transport.php" onclick="document.myform.submit();">Transports</a></li>
-    <li><a href="procedesindus.php" onclick="document.myform.submit();">Fabrication</a></li>
-    <li><a href="resultats.php" onclick="document.myform.submit();">Resultats</a></li>
+    <li class="active"><a href="presentation.php">Présentation</a></li>
+    <li class="active"><a href="batiment.php">Bâtiment</a></li>
+    <li class="active"><a href="transport.php">Transports</a></li>
+    <li><a href="procedesindus.php">Fabrication</a></li>
+    <li><a href="resultats.php">Resultats</a></li>
   </ul>
  
 

@@ -1,0 +1,45 @@
+[11-Apr-2018 15:16:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Ocean_Extra_Nav_Walker' not found in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ocean-extra/includes/widgets/custom-menu.php:123
+Stack trace:
+#0 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-widget.php(372): Ocean_Extra_Custom_Menu_Widget->widget(Array, Array)
+#1 /home/oxyai891/public_html/carboscope.ca/wp-includes/widgets.php(742): WP_Widget->display_callback(Array, Array)
+#2 /home/oxyai891/public_html/carboscope.ca/wp-content/themes/oceanwp/partials/footer/widgets.php(103): dynamic_sidebar('footer-two')
+#3 /home/oxyai891/public_html/carboscope.ca/wp-includes/template.php(690): require('/home/oxyai891/...')
+#4 /home/oxyai891/public_html/carboscope.ca/wp-includes/template.php(647): load_template('/home/oxyai891/...', false)
+#5 /home/oxyai891/public_html/carboscope.ca/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#6 /home/oxyai891/public_html/carboscope.ca/wp-content/themes/oceanwp/partials/footer/layout.php(22): get_template_ in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ocean-extra/includes/widgets/custom-menu.php on line 123
+[11-Apr-2018 15:16:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Ocean_Extra_Nav_Walker' not found in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ocean-extra/includes/widgets/custom-menu.php:123
+Stack trace:
+#0 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-widget.php(372): Ocean_Extra_Custom_Menu_Widget->widget(Array, Array)
+#1 /home/oxyai891/public_html/carboscope.ca/wp-includes/widgets.php(742): WP_Widget->display_callback(Array, Array)
+#2 /home/oxyai891/public_html/carboscope.ca/wp-content/themes/oceanwp/partials/footer/widgets.php(103): dynamic_sidebar('footer-two')
+#3 /home/oxyai891/public_html/carboscope.ca/wp-includes/template.php(690): require('/home/oxyai891/...')
+#4 /home/oxyai891/public_html/carboscope.ca/wp-includes/template.php(647): load_template('/home/oxyai891/...', false)
+#5 /home/oxyai891/public_html/carboscope.ca/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#6 /home/oxyai891/public_html/carboscope.ca/wp-content/themes/oceanwp/partials/footer/layout.php(22): get_template_ in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ocean-extra/includes/widgets/custom-menu.php on line 123
+[11-Apr-2018 15:17:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Ocean_Extra_Nav_Walker' not found in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ocean-extra/includes/widgets/custom-menu.php:123
+Stack trace:
+#0 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-widget.php(372): Ocean_Extra_Custom_Menu_Widget->widget(Array, Array)
+#1 /home/oxyai891/public_html/carboscope.ca/wp-includes/widgets.php(742): WP_Widget->display_callback(Array, Array)
+#2 /home/oxyai891/public_html/carboscope.ca/wp-content/themes/oceanwp/partials/footer/widgets.php(103): dynamic_sidebar('footer-two')
+#3 /home/oxyai891/public_html/carboscope.ca/wp-includes/template.php(690): require('/home/oxyai891/...')
+#4 /home/oxyai891/public_html/carboscope.ca/wp-includes/template.php(647): load_template('/home/oxyai891/...', false)
+#5 /home/oxyai891/public_html/carboscope.ca/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#6 /home/oxyai891/public_html/carboscope.ca/wp-content/themes/oceanwp/partials/footer/layout.php(22): get_template_ in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ocean-extra/includes/widgets/custom-menu.php on line 123
+[11-Apr-2018 15:17:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Ocean_Extra_Nav_Walker' not found in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ocean-extra/includes/widgets/custom-menu.php:123
+Stack trace:
+#0 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-widget.php(372): Ocean_Extra_Custom_Menu_Widget->widget(Array, Array)
+#1 /home/oxyai891/public_html/carboscope.ca/wp-includes/widgets.php(742): WP_Widget->display_callback(Array, Array)
+#2 /home/oxyai891/public_html/carboscope.ca/wp-content/themes/oceanwp/partials/footer/widgets.php(103): dynamic_sidebar('footer-two')
+#3 /home/oxyai891/public_html/carboscope.ca/wp-includes/template.php(690): require('/home/oxyai891/...')
+#4 /home/oxyai891/public_html/carboscope.ca/wp-includes/template.php(647): load_template('/home/oxyai891/...', false)
+#5 /home/oxyai891/public_html/carboscope.ca/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#6 /home/oxyai891/public_html/carboscope.ca/wp-content/themes/oceanwp/partials/footer/layout.php(22): get_template_ in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ocean-extra/includes/widgets/custom-menu.php on line 123
+[11-Apr-2018 15:17:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Ocean_Extra_Nav_Walker' not found in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ocean-extra/includes/widgets/custom-menu.php:123
+Stack trace:
+#0 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-widget.php(372): Ocean_Extra_Custom_Menu_Widget->widget(Array, Array)
+#1 /home/oxyai891/public_html/carboscope.ca/wp-includes/widgets.php(742): WP_Widget->display_callback(Array, Array)
+#2 /home/oxyai891/public_html/carboscope.ca/wp-content/themes/oceanwp/partials/footer/widgets.php(103): dynamic_sidebar('footer-two')
+#3 /home/oxyai891/public_html/carboscope.ca/wp-includes/template.php(690): require('/home/oxyai891/...')
+#4 /home/oxyai891/public_html/carboscope.ca/wp-includes/template.php(647): load_template('/home/oxyai891/...', false)
+#5 /home/oxyai891/public_html/carboscope.ca/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#6 /home/oxyai891/public_html/carboscope.ca/wp-content/themes/oceanwp/partials/footer/layout.php(22): get_template_ in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ocean-extra/includes/widgets/custom-menu.php on line 123

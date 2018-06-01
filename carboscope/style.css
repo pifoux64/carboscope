@@ -354,3 +354,82 @@ ul.notes-echelle li label {
 	cursor:pointer;
 }
 
+
+/* 
+
+
+/* TEST INPUTS 
+
+.section {
+	max-width: 500px;
+	padding: 4rem;
+	margin: 5vh auto 0 auto;
+	background: white;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+  }
+  .section:before {
+	content: "";
+	width: 100%;
+	background: #0ce479;
+	height: 170px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  }
+  
+  .form-instructions {
+	text-align: center;
+  }
+  
+  form {
+	margin: 2rem auto;
+	width: 100%;
+	max-width: 330px;
+	will-change: transform;
+  }
+  
+  .fieldgroup {
+	margin: 1.5rem 0;
+	position: relative;
+  }
+  
+  label {
+	position: absolute;
+	top: .8rem;
+	left: 0;
+	display: block;
+	font-size: 1rem;
+	transition: 0.2s ease-out;
+	opacity: .5;
+	will-change: top, font-size;
+  }
+  label:hover {
+	cursor: text;
+  }
+  
+  input {
+	border: 1px solid #fff;
+	font-size: 1.2rem;
+	padding: .6rem;
+	padding-left: 0;
+	background: transparent;
+	border: none;
+	border-bottom: 2px solid #444;
+	transition: 0.2s;
+	width: calc(100% - .6rem);
+	max-width: 350px;
+	border-radius: 0;
+  }
+  input:focus {
+	outline: none;
+  }
+  input:valid {
+	border-color: #444;
+  }
+  input:focus + label, input.hasInput + label {
+	top: -.8rem;
+	font-size: .7rem;
+  }
+   */

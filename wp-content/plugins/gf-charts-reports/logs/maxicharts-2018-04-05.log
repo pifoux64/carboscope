@@ -1,0 +1,1141 @@
+2018-04-05 00:28:19,439 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:28:19,495 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:28:19,821 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:28:20,106 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:28:20,164 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:28:20,174 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:28:20,182 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:28:20,194 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:28:21,279 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:28:21,280 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:28:30,274 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 00:28:30,343 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:28:30,362 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:28:30,365 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:28:30,368 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:28:30,375 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:28:30,380 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:28:30,386 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:28:30,389 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:28:31,138 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:28:31,186 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:29:13,037 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:29:13,070 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:29:13,071 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:29:13,078 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:29:13,098 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:29:13,114 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:29:13,122 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:29:13,123 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:29:13,703 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:29:13,709 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:29:22,862 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:29:22,903 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:29:22,908 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:29:22,911 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:29:22,918 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:29:22,926 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:29:22,933 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:29:22,936 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:29:23,347 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:29:23,350 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:30:08,515 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:30:08,540 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:30:08,541 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:30:08,543 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:30:08,544 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:30:08,545 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:30:08,546 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:30:08,547 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:30:08,883 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:30:08,885 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:31:09,557 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:31:09,588 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:31:09,589 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:31:09,591 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:31:09,592 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:31:09,593 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:31:09,594 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:31:09,596 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:31:10,320 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:31:10,321 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:31:46,937 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:31:46,968 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:31:46,970 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:31:46,971 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:31:46,981 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:31:46,991 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:31:47,006 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:31:47,008 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:31:47,695 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:31:47,697 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:31:58,047 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 00:32:14,532 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:32:14,599 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:32:14,619 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:32:14,637 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:32:14,652 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:32:14,686 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:32:14,690 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:32:14,694 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:32:14,747 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:32:14,750 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:32:27,840 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 00:32:51,067 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:32:51,139 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:32:51,149 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:32:51,155 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:32:51,169 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:32:51,186 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:32:51,201 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:32:51,205 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:32:51,972 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:32:51,974 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:33:19,541 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:33:19,585 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:33:19,590 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:33:19,594 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:33:19,609 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:33:19,618 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:33:19,623 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:33:19,624 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:33:20,130 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:33:20,131 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:33:36,139 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:33:36,209 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:33:36,213 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:33:36,215 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:33:36,220 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:33:36,225 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:33:36,233 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:33:36,243 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:33:36,296 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:33:36,316 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:34:16,548 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:34:16,578 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:34:16,580 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:34:16,582 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:34:16,583 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:34:16,585 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:34:16,586 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:34:16,588 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:34:16,949 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:34:16,951 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:35:38,965 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:35:39,016 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:35:39,017 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:35:39,018 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:35:39,020 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:35:39,022 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:35:39,024 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:35:39,026 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:35:39,630 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:35:39,632 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:36:39,048 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:36:39,131 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:36:39,132 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:36:39,134 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:36:39,137 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:36:39,138 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:36:39,140 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:36:39,142 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:36:39,831 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:36:39,834 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:38:42,246 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:38:42,305 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:38:42,309 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:38:42,311 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:38:42,313 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:38:42,316 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:38:42,319 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:38:42,323 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:38:43,814 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:38:43,817 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:40:39,785 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:40:39,835 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:40:39,837 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:40:39,838 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:40:39,838 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:40:39,839 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:40:39,840 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:40:39,841 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:40:40,316 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:40:40,318 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:42:39,347 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:42:39,376 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:42:39,377 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:42:39,378 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:42:39,379 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:42:39,379 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:42:39,380 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:42:39,381 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:42:39,835 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:42:39,858 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 00:44:42,213 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 00:44:42,292 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 00:44:42,296 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 00:44:42,298 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 00:44:42,306 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 00:44:42,313 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 00:44:42,320 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 00:44:42,322 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 00:44:43,039 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 00:44:43,040 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:32:14,650 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:32:14,874 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:32:15,004 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:32:15,040 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:32:15,103 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:32:15,141 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:32:15,188 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:32:15,230 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:32:16,633 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:32:16,635 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:32:27,871 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:32:27,897 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:32:27,901 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:32:27,924 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:32:27,930 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:32:27,936 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:32:27,940 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:32:27,945 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:32:28,149 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:32:28,151 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:32:28,695 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:32:28,710 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:32:28,711 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:32:28,713 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:32:28,716 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:32:28,717 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:32:28,720 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:32:28,722 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:32:28,783 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:32:28,786 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:32:35,676 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 02:33:16,214 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:33:16,230 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:33:16,231 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:33:16,233 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:33:16,236 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:33:16,238 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:33:16,241 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:33:16,242 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:33:16,282 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:33:16,284 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:33:20,660 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 02:33:28,596 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:33:28,669 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:33:28,672 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:33:28,675 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:33:28,718 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:33:28,750 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:33:28,759 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:33:28,770 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:33:29,234 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:33:29,239 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:33:35,891 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 02:33:39,450 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:33:39,471 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:33:39,474 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:33:39,478 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:33:39,481 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:33:39,485 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:33:39,488 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:33:39,490 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:33:39,512 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:33:39,516 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:33:43,309 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 02:34:00,387 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:34:00,433 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:34:00,455 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:34:00,456 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:34:00,462 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:34:00,467 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:34:00,470 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:34:00,473 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:34:01,463 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:34:01,467 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:34:09,746 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 02:34:16,160 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:139 Add button to Tiny MCE using file : http://siges.local/wp-content/plugins/gf-charts-reports/js/gfcr_tinymce_button.js
+ 2018-04-05 02:34:16,824 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:147 Add button to WP buttons array: 
+ 2018-04-05 02:34:16,892 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:148 Array
+(
+    [0] => formatselect
+    [1] => bold
+    [2] => italic
+    [3] => bullist
+    [4] => numlist
+    [5] => blockquote
+    [6] => alignleft
+    [7] => aligncenter
+    [8] => alignright
+    [9] => link
+    [10] => wp_more
+    [11] => spellchecker
+    [12] => fullscreen
+    [13] => wp_adv
+    [14] => ilist_short_btn
+    [15] => visualizer_mce_button
+    [16] => mcharts_insert
+    [17] => mcharts_insert_graph
+)
+
+ 2018-04-05 02:34:18,661 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:183 gf_forms_list_script
+ 2018-04-05 02:34:18,720 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:185 admin.php
+ 2018-04-05 02:34:22,587 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:34:22,610 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:34:22,615 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:34:22,617 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:34:22,623 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:34:22,628 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:34:22,637 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:34:22,638 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:34:22,981 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:34:22,983 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:34:29,019 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 02:34:35,926 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:34:36,102 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:34:36,147 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:34:36,149 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:34:36,153 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:34:36,155 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:34:36,215 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:34:36,245 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:34:36,304 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:34:36,314 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:35:31,854 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:35:32,055 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:35:32,142 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:35:32,153 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:35:32,200 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:35:32,218 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:35:32,220 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:35:32,221 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:35:32,257 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:35:32,280 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:35:43,780 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:35:43,816 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:35:43,858 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:35:43,888 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:35:43,917 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:35:43,950 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:35:43,976 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:35:44,035 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:35:45,475 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:35:45,517 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:37:41,100 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:37:41,304 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:37:41,507 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:37:41,606 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:37:41,708 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:37:41,916 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:37:42,065 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:37:42,190 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:37:42,980 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:37:43,117 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:39:35,318 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:39:35,336 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:39:35,337 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:39:35,338 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:39:35,339 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:39:35,340 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:39:35,341 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:39:35,341 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:39:35,686 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:39:35,689 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:41:36,186 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:41:36,214 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:41:36,216 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:41:36,217 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:41:36,217 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:41:36,218 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:41:36,219 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:41:36,220 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:41:37,054 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:41:37,197 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:43:36,997 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:43:37,074 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:43:37,078 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:43:37,158 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:43:37,164 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:43:37,167 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:43:37,189 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:43:37,195 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:43:37,573 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:43:37,577 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:44:51,804 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:44:51,838 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:44:51,840 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:44:51,840 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:44:51,841 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:44:51,842 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:44:51,843 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:44:51,844 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:44:52,151 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:44:52,152 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:45:54,806 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:45:54,892 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:45:54,895 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:45:54,902 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:45:54,917 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:45:54,922 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:45:54,928 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:45:54,929 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:45:56,295 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:45:56,306 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:47:53,342 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:47:53,388 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:47:53,389 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:47:53,390 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:47:53,391 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:47:53,392 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:47:53,392 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:47:53,393 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:47:53,867 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:47:53,868 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:49:54,128 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:49:54,169 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:49:54,171 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:49:54,171 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:49:54,173 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:49:54,174 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:49:54,176 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:49:54,179 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:49:54,557 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:49:54,558 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:51:55,816 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:51:55,855 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:51:55,856 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:51:55,857 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:51:55,858 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:51:55,870 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:51:55,871 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:51:55,872 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:51:56,267 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:51:56,269 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 02:53:56,564 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 02:53:56,607 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 02:53:56,608 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 02:53:56,609 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 02:53:56,610 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 02:53:56,611 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 02:53:56,612 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 02:53:56,613 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 02:53:57,173 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 02:53:57,175 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:28:58,830 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:28:58,881 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:28:58,882 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:28:58,883 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:28:58,884 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:28:58,885 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:28:58,886 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:28:58,887 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:28:59,406 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:28:59,419 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:29:09,444 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:29:09,457 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:29:09,459 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:29:09,460 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:29:09,465 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:29:09,469 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:29:09,474 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:29:09,475 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:29:09,822 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:29:09,824 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:29:10,101 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:29:10,104 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:29:10,106 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:29:10,107 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:29:10,108 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:29:10,112 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:29:10,114 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:29:10,115 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:29:10,122 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:29:10,128 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:30:34,102 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:30:34,129 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:30:34,130 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:30:34,131 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:30:34,132 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:30:34,132 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:30:34,133 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:30:34,134 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:30:34,492 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:30:34,517 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:31:04,813 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:31:04,991 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:31:05,003 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:31:05,024 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:31:05,098 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:31:05,152 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:31:05,194 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:31:05,212 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:31:06,097 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:31:06,204 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:31:16,426 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 14:31:26,831 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:31:27,004 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:31:27,019 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:31:27,029 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:31:27,068 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:31:27,074 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:31:27,084 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:31:27,190 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:31:28,184 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:31:28,203 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:31:40,562 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:31:40,600 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:31:40,601 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:31:40,605 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:31:40,611 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:31:40,616 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:31:40,622 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:31:40,628 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:31:40,633 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:31:40,663 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:31:43,883 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:31:43,902 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:31:43,905 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:31:43,907 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:31:43,919 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:31:43,930 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:31:43,942 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:31:43,943 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:31:44,315 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:31:44,319 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:31:50,295 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:31:50,299 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:31:50,300 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:31:50,300 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:31:50,301 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:31:50,302 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:31:50,305 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:31:50,308 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:31:50,335 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:31:50,337 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:31:58,423 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:31:58,446 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:31:58,448 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:31:58,449 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:31:58,453 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:31:58,460 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:31:58,466 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:31:58,470 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:31:58,852 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:31:58,854 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:32:05,447 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 14:32:15,187 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:32:15,229 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:32:15,231 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:32:15,232 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:32:15,242 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:32:15,247 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:32:15,252 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:32:15,257 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:32:15,988 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:32:15,992 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:32:31,219 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:32:31,239 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:32:31,243 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:32:31,244 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:32:31,251 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:32:31,257 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:32:31,264 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:32:31,268 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:32:31,831 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:32:31,837 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:32:45,659 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:32:45,705 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:32:45,707 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:32:45,709 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:32:45,723 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:32:45,729 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:32:45,737 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:32:45,740 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:32:46,523 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:32:46,527 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:33:01,238 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 14:33:06,415 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:139 Add button to Tiny MCE using file : http://siges.local/wp-content/plugins/gf-charts-reports/js/gfcr_tinymce_button.js
+ 2018-04-05 14:33:06,644 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:147 Add button to WP buttons array: 
+ 2018-04-05 14:33:06,687 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:148 Array
+(
+    [0] => formatselect
+    [1] => bold
+    [2] => italic
+    [3] => bullist
+    [4] => numlist
+    [5] => blockquote
+    [6] => alignleft
+    [7] => aligncenter
+    [8] => alignright
+    [9] => link
+    [10] => wp_more
+    [11] => spellchecker
+    [12] => dfw
+    [13] => wp_adv
+    [14] => ilist_short_btn
+    [15] => visualizer_mce_button
+    [16] => ezfc_tinymce_button
+    [17] => mcharts_insert
+    [18] => mcharts_insert_graph
+)
+
+ 2018-04-05 14:33:08,490 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:183 gf_forms_list_script
+ 2018-04-05 14:33:08,497 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:185 post.php
+ 2018-04-05 14:33:09,608 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:33:09,654 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:33:09,662 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:33:09,697 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:33:09,713 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:33:09,740 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:33:09,782 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:33:09,788 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:33:14,506 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:33:14,539 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:33:53,545 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:33:53,629 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:33:53,637 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:33:53,682 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:33:53,723 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:33:53,766 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:33:53,834 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:33:53,858 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:33:54,514 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:33:54,519 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:34:02,889 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:175 list_gf_ajax
+ 2018-04-05 14:34:42,528 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:34:42,548 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:34:42,550 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:34:42,553 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:34:42,555 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:34:42,557 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:34:42,559 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:34:42,561 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:34:43,081 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:34:43,086 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:34:50,882 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:34:50,909 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:34:50,911 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:34:50,914 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:34:50,916 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:34:50,922 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:34:50,926 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:34:50,933 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:34:50,961 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:34:50,966 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:34:57,079 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:34:57,089 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:34:57,090 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:34:57,093 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:34:57,102 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:34:57,110 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:34:57,115 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:34:57,119 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:34:57,447 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:34:57,449 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:35:01,988 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:35:02,007 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:35:02,010 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:35:02,012 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:35:02,017 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:35:02,023 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:35:02,030 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:35:02,038 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:35:02,063 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:35:02,067 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:35:07,638 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:35:07,654 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:35:07,655 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:35:07,656 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:35:07,664 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:35:07,672 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:35:07,679 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:35:07,681 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:35:08,014 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:35:08,017 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:35:14,062 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 14:35:19,574 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:35:19,586 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:35:19,587 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:35:19,589 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:35:19,593 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:35:19,606 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:35:19,614 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:35:19,616 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:35:20,217 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:35:20,227 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:35:30,327 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:35:30,481 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:35:30,488 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:35:30,492 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:35:30,500 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:35:30,509 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:35:30,518 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:35:30,520 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:35:31,014 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:35:31,016 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:35:39,465 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:35:39,485 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:35:39,488 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:35:39,490 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:35:39,494 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:35:39,504 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:35:39,509 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:35:39,512 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:35:40,018 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:35:40,020 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:35:47,820 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:35:47,859 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:35:47,862 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:35:47,870 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:35:47,871 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:35:47,875 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:35:47,882 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:35:47,889 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:35:47,922 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:35:47,931 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:35:51,345 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:35:51,375 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:35:51,379 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:35:51,384 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:35:51,399 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:35:51,410 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:35:51,426 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:35:51,430 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:35:51,936 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:35:51,939 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:36:01,703 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:36:01,720 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:36:01,725 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:36:01,730 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:36:01,733 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:36:01,736 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:36:01,740 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:36:01,745 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:36:01,803 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:36:01,808 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:36:05,293 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 14:36:06,748 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:36:06,759 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:36:06,766 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:36:06,770 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:36:06,773 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:36:06,779 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:36:06,785 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:36:06,791 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:36:06,847 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:36:06,851 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:36:14,644 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:36:14,700 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:36:14,701 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:36:14,705 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:36:14,718 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:36:14,816 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:36:14,848 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:36:14,865 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:36:19,443 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:36:19,469 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:36:32,949 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 14:36:40,101 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:36:40,115 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:36:40,119 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:36:40,123 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:36:40,128 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:36:40,133 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:36:40,136 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:36:40,139 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:36:40,153 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:36:40,163 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:41:14,653 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:41:14,713 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:41:14,714 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:41:14,715 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:41:14,717 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:41:14,719 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:41:14,721 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:41:14,722 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:41:15,238 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:41:15,241 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:43:14,892 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:43:14,932 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:43:14,951 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:43:14,952 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:43:14,955 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:43:14,958 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:43:14,960 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:43:14,961 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:43:15,443 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:43:15,445 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 14:45:16,468 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 14:45:16,540 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 14:45:16,542 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 14:45:16,556 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 14:45:16,558 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 14:45:16,561 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 14:45:16,563 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 14:45:16,564 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 14:45:17,089 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 14:45:17,091 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 16:07:42,558 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 16:07:42,792 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 16:07:43,084 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 16:07:43,263 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 16:07:43,441 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 16:07:43,556 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 16:07:43,609 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 16:07:43,628 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 16:07:45,140 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 16:07:45,142 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 16:07:56,549 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 16:07:56,615 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 16:07:56,619 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 16:07:56,646 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 16:07:56,655 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 16:07:56,660 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 16:07:56,666 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 16:07:56,669 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 16:07:56,983 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 16:07:56,992 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 16:08:37,917 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 16:08:37,962 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 16:08:37,964 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 16:08:37,964 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 16:08:37,965 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 16:08:37,967 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 16:08:37,987 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 16:08:37,988 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 16:08:38,393 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 16:08:38,415 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 16:09:40,169 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 16:09:40,411 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 16:09:40,450 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 16:09:40,452 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 16:09:40,501 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 16:09:40,535 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 16:09:40,603 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 16:09:40,623 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 16:09:41,017 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 16:09:41,079 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 16:10:40,238 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 16:10:40,292 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 16:10:40,294 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 16:10:40,295 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 16:10:40,296 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 16:10:40,297 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 16:10:40,298 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 16:10:40,299 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 16:10:40,315 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 16:10:40,317 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 16:12:41,796 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 16:12:41,806 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 16:12:41,807 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 16:12:41,809 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 16:12:41,813 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 16:12:41,814 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 16:12:41,815 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 16:12:41,816 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 16:12:42,115 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 16:12:42,116 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 16:14:42,798 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 16:14:42,807 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 16:14:42,808 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 16:14:42,809 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 16:14:42,810 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 16:14:42,815 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 16:14:42,816 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 16:14:42,828 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 16:14:43,132 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 16:14:43,135 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 16:14:50,281 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 16:14:50,295 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 16:14:50,296 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 16:14:50,298 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 16:14:50,308 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 16:14:50,314 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 16:14:50,320 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 16:14:50,321 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 16:14:50,600 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 16:14:50,602 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 16:16:43,790 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 16:16:43,800 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 16:16:43,800 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 16:16:43,802 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 16:16:43,807 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 16:16:43,808 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 16:16:43,809 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 16:16:43,810 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 16:16:44,104 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 16:16:44,106 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 16:18:45,666 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 16:18:45,723 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 16:18:45,725 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 16:18:45,726 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 16:18:45,727 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 16:18:45,728 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 16:18:45,730 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 16:18:45,731 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 16:18:46,223 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 16:18:46,226 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 20:12:28,284 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 20:12:28,378 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 20:12:28,380 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 20:12:28,397 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 20:12:28,398 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 20:12:28,400 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 20:12:28,402 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 20:12:28,404 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 20:12:28,906 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 20:12:28,908 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 20:12:34,862 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 20:12:34,879 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 20:12:34,880 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 20:12:34,883 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 20:12:34,890 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 20:12:34,910 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 20:12:34,918 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 20:12:34,921 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 20:12:35,525 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 20:12:35,526 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 20:15:30,448 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 20:15:30,591 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 20:15:30,601 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 20:15:30,611 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 20:15:30,626 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 20:15:30,717 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 20:15:30,948 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 20:15:31,048 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 20:15:31,972 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 20:15:31,974 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 20:15:43,933 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 20:15:44,102 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 20:15:44,202 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 20:15:44,891 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 20:15:45,418 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 20:15:45,610 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 20:15:45,780 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 20:15:45,897 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 20:15:45,975 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 20:15:46,019 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:36:16,371 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:36:16,432 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:36:16,433 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:36:16,434 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:36:16,434 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:36:16,435 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:36:16,436 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:36:16,438 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:36:16,441 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:36:16,443 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:36:21,238 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:36:21,253 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:36:21,256 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:36:21,257 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:36:21,258 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:36:21,260 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:36:21,264 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:36:21,266 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:36:21,279 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:36:21,282 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:36:23,229 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:36:23,255 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:36:23,256 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:36:23,286 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:36:23,344 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:36:23,351 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:36:23,357 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:36:23,360 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:36:23,915 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:36:23,918 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:37:23,422 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:37:23,514 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:37:23,541 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:37:23,579 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:37:23,614 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:37:23,616 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:37:23,619 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:37:23,620 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:37:24,315 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:37:24,316 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:37:30,321 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 21:38:29,685 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:38:29,752 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:38:29,766 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:38:29,768 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:38:29,768 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:38:29,770 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:38:29,771 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:38:29,790 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:38:29,806 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:38:29,808 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:39:15,747 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 21:39:30,102 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:39:30,119 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:39:30,121 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:39:30,122 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:39:30,128 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:39:30,134 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:39:30,140 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:39:30,141 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:39:30,600 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:39:30,602 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:39:40,083 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:39:40,130 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:39:40,132 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:39:40,134 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:39:40,136 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:39:40,142 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:39:40,145 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:39:40,147 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:39:40,468 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:39:40,471 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:40:15,031 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 21:40:20,195 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:40:20,215 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:40:20,217 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:40:20,220 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:40:20,228 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:40:20,234 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:40:20,242 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:40:20,246 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:40:20,665 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:40:20,668 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:41:39,311 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:41:39,341 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:41:39,342 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:41:39,343 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:41:39,344 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:41:39,345 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:41:39,346 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:41:39,347 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:41:39,657 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:41:39,660 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:42:24,360 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 21:43:48,810 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:43:48,855 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:43:48,858 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:43:48,883 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:43:48,885 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:43:48,888 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:43:48,890 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:43:48,891 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:43:49,233 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:43:49,236 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:45:19,829 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:45:19,841 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:45:19,842 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:45:19,843 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:45:19,843 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:45:19,844 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:45:19,845 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:45:19,846 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:45:20,143 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:45:20,145 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:45:32,976 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:45:32,993 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:45:32,996 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:45:33,000 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:45:33,007 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:45:33,015 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:45:33,019 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:45:33,022 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:45:33,443 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:45:33,447 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:45:41,583 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:45:41,594 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:45:41,602 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:45:41,605 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:45:41,615 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:45:41,620 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:45:41,626 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:45:41,628 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:45:41,968 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:45:41,971 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:46:37,821 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 21:46:44,804 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:46:44,818 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:46:44,821 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:46:44,826 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:46:44,834 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:46:44,839 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:46:44,846 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:46:44,849 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:46:45,264 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:46:45,267 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:47:27,152 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 21:47:33,104 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:47:33,120 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:47:33,127 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:47:33,132 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:47:33,135 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:47:33,138 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:47:33,142 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:47:33,146 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:47:33,171 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:47:33,175 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:48:07,251 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 21:48:14,308 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:48:14,332 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:48:14,336 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:48:14,338 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:48:14,345 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:48:14,350 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:48:14,354 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:48:14,355 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:48:14,734 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:48:14,735 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:48:49,105 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 21:48:56,292 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:48:56,306 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:48:56,309 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:48:56,311 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:48:56,315 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:48:56,316 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:48:56,319 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:48:56,321 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:48:56,345 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:48:56,347 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:49:32,921 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 21:49:38,845 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:49:38,860 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:49:38,863 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:49:38,868 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:49:38,871 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:49:38,876 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:49:38,880 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:49:38,883 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:49:38,954 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:49:38,956 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:49:43,502 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 21:49:43,515 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 21:49:43,516 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 21:49:43,518 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 21:49:43,523 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 21:49:43,527 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 21:49:43,531 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 21:49:43,533 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 21:49:43,872 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 21:49:43,875 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 21:50:18,229 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-05 22:28:43,593 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 22:28:43,887 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 22:28:43,978 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 22:28:44,106 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 22:28:44,417 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 22:28:44,482 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 22:28:44,600 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 22:28:44,668 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 22:28:45,058 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 22:28:45,103 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 22:28:52,713 MAXICHARTSAPI DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-05 22:28:52,918 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-05 22:28:52,919 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-05 22:28:52,924 maxicharts_log4php ERROR /app/public/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-05 22:28:52,927 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-05 22:28:52,929 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-05 22:28:52,930 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-05 22:28:52,933 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-05 22:28:52,939 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-05 22:28:52,943 maxicharts_log4php DEBUG /app/public/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-05 22:30:00,745 maxicharts_log4php DEBUG /app/public/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 

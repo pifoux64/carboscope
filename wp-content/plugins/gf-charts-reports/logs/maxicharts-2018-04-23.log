@@ -1,0 +1,527 @@
+2018-04-23 05:32:20,574 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 05:32:20,856 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 05:32:20,856 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 05:32:20,856 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 05:32:20,856 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 05:32:20,856 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 05:32:20,857 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 05:32:20,857 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 05:32:21,581 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 05:32:21,585 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 05:32:26,785 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 05:32:26,785 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 05:32:26,785 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 05:32:26,785 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 05:32:26,786 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 05:32:26,786 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 05:32:26,786 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 05:32:26,786 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 05:32:26,822 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 05:32:26,823 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 05:32:28,495 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 05:32:28,521 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 05:32:28,530 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 05:32:28,533 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 05:32:28,538 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 05:32:28,546 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 05:32:28,550 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 05:32:28,552 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 05:32:28,596 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 05:32:28,612 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 15:38:50,847 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 15:38:50,863 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 15:38:50,995 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 15:38:50,995 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 15:38:50,996 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 15:38:50,996 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 15:38:50,996 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 15:38:50,996 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 15:38:51,944 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 15:38:51,948 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 15:38:57,519 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 15:38:57,520 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 15:38:57,520 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 15:38:57,520 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 15:38:57,520 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 15:38:57,520 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 15:38:57,521 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 15:38:57,521 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 15:38:57,553 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 15:38:57,553 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 15:38:59,245 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 15:38:59,252 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 15:38:59,256 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 15:38:59,256 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 15:38:59,257 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 15:38:59,257 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 15:38:59,257 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 15:38:59,257 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 15:38:59,290 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 15:38:59,291 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 15:39:00,410 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 15:39:00,410 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 15:39:00,411 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 15:39:00,411 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 15:39:00,411 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 15:39:00,411 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 15:39:00,411 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 15:39:00,412 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 15:39:00,445 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 15:39:00,445 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 15:39:08,661 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 15:39:08,662 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 15:39:08,662 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 15:39:08,662 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 15:39:08,662 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 15:39:08,662 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 15:39:08,663 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 15:39:08,663 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 15:39:08,700 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 15:39:08,700 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 15:39:54,079 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 15:39:54,079 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 15:39:54,079 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 15:39:54,079 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 15:39:54,079 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 15:39:54,080 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 15:39:54,080 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 15:39:54,080 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 15:39:54,116 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 15:39:54,116 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 15:39:57,971 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 15:39:57,971 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 15:39:57,971 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 15:39:57,971 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 15:39:57,972 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 15:39:57,972 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 15:39:57,972 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 15:39:57,972 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 15:39:58,007 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 15:39:58,007 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:55:58,989 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:55:59,005 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:55:59,129 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:55:59,129 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:55:59,130 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:55:59,130 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:55:59,130 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:55:59,130 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:56:00,617 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:00,621 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:06,647 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:56:06,647 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:56:06,647 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:56:06,647 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:56:06,648 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:56:06,648 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:56:06,649 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:56:06,649 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:56:06,698 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:06,698 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:07,798 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:56:07,798 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:56:07,799 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:56:07,799 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:56:07,799 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:56:07,799 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:56:07,800 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:56:07,800 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:56:07,835 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:07,835 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:08,807 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:56:08,807 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:56:08,807 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:56:08,807 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:56:08,807 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:56:08,808 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:56:08,808 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:56:08,808 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:56:08,843 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:08,843 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:12,814 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:56:12,814 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:56:12,814 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:56:12,814 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:56:12,814 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:56:12,814 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:56:12,815 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:56:12,815 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:56:12,845 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:12,845 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:44,652 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:56:44,652 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:56:44,653 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:56:44,653 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:56:44,653 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:56:44,653 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:56:44,653 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:56:44,654 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:56:44,685 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:44,686 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:47,273 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:56:47,273 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:56:47,273 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:56:47,273 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:56:47,274 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:56:47,274 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:56:47,274 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:56:47,274 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:56:47,307 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:47,307 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:49,734 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:56:49,734 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:56:49,734 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:56:49,734 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:56:49,734 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:56:49,735 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:56:49,735 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:56:49,735 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:56:49,766 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:49,767 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:53,167 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:56:53,167 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:56:53,167 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:56:53,167 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:56:53,168 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:56:53,168 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:56:53,168 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:56:53,168 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:56:53,204 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:56:53,204 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:57:14,921 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:57:14,922 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:57:14,922 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:57:14,922 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:57:14,922 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:57:14,922 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:57:14,923 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:57:14,923 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:57:15,063 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:57:15,077 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:57:19,096 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 19:57:24,545 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:57:24,545 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:57:24,545 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:57:24,545 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:57:24,546 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:57:24,546 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:57:24,546 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:57:24,546 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:57:24,585 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:57:24,585 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:57:25,439 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:57:25,439 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:57:25,439 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:57:25,439 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:57:25,439 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:57:25,440 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:57:25,440 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:57:25,440 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:57:25,476 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:57:25,476 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:57:40,261 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:57:40,261 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:57:40,262 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:57:40,262 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:57:40,262 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:57:40,262 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:57:40,263 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:57:40,263 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:57:40,304 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:57:40,304 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:57:41,334 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 19:58:37,910 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:58:37,910 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:58:37,910 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:58:37,910 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:58:37,910 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:58:37,911 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:58:37,911 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:58:37,911 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:58:37,952 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:58:37,953 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:58:38,588 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 19:58:40,570 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:58:40,570 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:58:40,570 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:58:40,570 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:58:40,570 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:58:40,571 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:58:40,571 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:58:40,571 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:58:40,604 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:58:40,604 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:59:38,688 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:59:38,688 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:59:38,688 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:59:38,688 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:59:38,688 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:59:38,689 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:59:38,689 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:59:38,689 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:59:38,726 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:59:38,726 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:59:39,454 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 19:59:46,761 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:59:46,762 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:59:46,762 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:59:46,762 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:59:46,762 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:59:46,763 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:59:46,763 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:59:46,763 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:59:46,803 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:59:46,803 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:59:47,804 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:59:47,805 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:59:47,805 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:59:47,805 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:59:47,805 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:59:47,806 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:59:47,806 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:59:47,806 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:59:47,848 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:59:47,848 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:59:48,530 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 19:59:56,073 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:59:56,074 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:59:56,074 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:59:56,074 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:59:56,074 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:59:56,075 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:59:56,075 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:59:56,075 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:59:56,121 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:59:56,122 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:59:56,994 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 19:59:56,994 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 19:59:56,994 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 19:59:56,994 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 19:59:56,995 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 19:59:56,995 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 19:59:56,995 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 19:59:56,995 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 19:59:57,031 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 19:59:57,031 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 19:59:57,676 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 20:00:07,949 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:07,949 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:07,949 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:07,949 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:07,950 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:07,950 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:07,950 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:07,950 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:07,990 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:07,990 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:08,946 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:08,947 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:08,947 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:08,947 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:08,947 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:08,947 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:08,948 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:08,948 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:08,989 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:08,989 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:09,706 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 20:00:18,431 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:18,432 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:18,432 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:18,432 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:18,432 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:18,432 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:18,433 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:18,433 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:18,471 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:18,471 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:19,369 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:19,369 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:19,369 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:19,369 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:19,369 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:19,370 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:19,370 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:19,370 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:19,407 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:19,407 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:20,040 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 20:00:20,963 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:20,964 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:20,964 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:20,964 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:20,964 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:20,964 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:20,965 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:20,965 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:21,002 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:21,002 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:21,907 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:21,908 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:21,908 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:21,908 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:21,908 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:21,909 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:21,909 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:21,909 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:21,951 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:21,951 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:22,568 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 20:00:24,404 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:24,405 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:24,405 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:24,405 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:24,405 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:24,405 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:24,406 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:24,406 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:24,443 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:24,443 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:25,353 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:25,353 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:25,353 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:25,353 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:25,353 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:25,354 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:25,354 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:25,354 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:25,394 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:25,395 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:26,054 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 20:00:29,632 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:29,633 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:29,633 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:29,633 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:29,633 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:29,633 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:29,634 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:29,634 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:29,671 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:29,671 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:30,547 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:30,548 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:30,548 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:30,548 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:30,548 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:30,548 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:30,549 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:30,549 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:30,583 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:30,583 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:31,205 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 20:00:35,054 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:35,056 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:35,056 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:35,056 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:35,057 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:35,057 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:35,057 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:35,057 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:35,096 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:35,096 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:36,105 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:36,106 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:36,106 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:36,106 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:36,106 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:36,106 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:36,107 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:36,107 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:36,145 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:36,145 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:36,740 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 20:00:38,740 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:38,741 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:38,741 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:38,741 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:38,741 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:38,741 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:38,742 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:38,742 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:38,781 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:38,781 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:39,886 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:39,886 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:39,886 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:39,886 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:39,886 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:39,887 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:39,887 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:39,887 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:39,930 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:39,930 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:40,584 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 20:00:47,361 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:47,362 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:47,362 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:47,362 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:47,362 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:47,362 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:47,363 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:47,363 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:47,406 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:47,406 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:48,380 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:48,380 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:48,380 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:48,380 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:48,380 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:48,381 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:48,381 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:48,381 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:48,421 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:48,422 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:49,068 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 20:00:49,762 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:49,762 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:49,762 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:49,762 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:49,762 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:49,763 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:49,763 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:49,763 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:49,816 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:49,816 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:50,817 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:50,817 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:50,817 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:50,817 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:50,818 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:50,818 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:50,818 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:50,818 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:50,861 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:50,861 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:51,531 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 20:00:53,446 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:53,446 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:53,446 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:53,446 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:53,447 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:53,447 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:53,447 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:53,447 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:53,492 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:53,492 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:54,344 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:54,344 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:54,344 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:54,344 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:54,344 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:54,345 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:54,345 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:54,345 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:54,383 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:54,384 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:55,019 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:49 Adding TinyMCE filters...
+ 2018-04-23 20:00:56,896 MAXICHARTSAPI DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_utils.php:88 Logger up!...
+ 2018-04-23 20:00:56,896 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:17 Adding Module : maxicharts_gravity_forms
+ 2018-04-23 20:00:56,897 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:63 Please install/activate gravityforms plugin
+ 2018-04-23 20:00:56,897 maxicharts_log4php ERROR /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_gravity_forms.php:39 Missing plugin Gravity Forms
+ 2018-04-23 20:00:56,897 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_data_conversion_plugin.php:19 Adding Module : mcharts_data_conversion_plugin
+ 2018-04-23 20:00:56,897 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_custom_criteria_plugin.php:20 Adding Module : mcharts_custom_criteria_plugin
+ 2018-04-23 20:00:56,897 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/mcharts_table_plugin.php:15 Adding Module : mcharts_table_plugin
+ 2018-04-23 20:00:56,898 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:65 Construct maxicharts_reports
+ 2018-04-23 20:00:56,940 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:57 Adding Module : mcharts_csv_source_plugin
+ 2018-04-23 20:00:56,940 maxicharts_log4php DEBUG /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/maxicharts-csv-source-add-on/mcharts_csv_source_add_on.php:77 Added Module : mcharts_csv_source_plugin
+ 

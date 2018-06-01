@@ -1,0 +1,243 @@
+30 March 2018 14:34:55 	 PHP 7.1.7Array
+(
+    [ERROR_MSG] => HTTP Error: (0) SSL certificate problem: unable to get local issuer certificate
+    [TRACE_STK] => #0 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/auth/Google_OAuth2.php(97): CFGS_Google_CurlIO->makeRequest(Object(CFGS_Google_HttpRequest))
+#1 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AABApz-3L0stm...')
+#2 /app/public/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AABApz-3L0stm...')
+#3 /app/public/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AABApz-3L0stm...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#8 {main}
+)
+30 March 2018 14:35:06 	 PHP 7.1.7Array
+(
+    [ERROR_MSG] => HTTP Error: (0) SSL certificate problem: unable to get local issuer certificate
+    [TRACE_STK] => #0 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/auth/Google_OAuth2.php(97): CFGS_Google_CurlIO->makeRequest(Object(CFGS_Google_HttpRequest))
+#1 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AABApz-3L0stm...')
+#2 /app/public/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AABApz-3L0stm...')
+#3 /app/public/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AABApz-3L0stm...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#8 {main}
+)
+30 March 2018 14:35:37 	 PHP 7.1.7Array
+(
+    [ERROR_MSG] => HTTP Error: (0) SSL certificate problem: unable to get local issuer certificate
+    [TRACE_STK] => #0 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/auth/Google_OAuth2.php(97): CFGS_Google_CurlIO->makeRequest(Object(CFGS_Google_HttpRequest))
+#1 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AACv2rLP_Hlq4...')
+#2 /app/public/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AACv2rLP_Hlq4...')
+#3 /app/public/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AACv2rLP_Hlq4...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#8 {main}
+)
+30 March 2018 14:35:39 	 PHP 7.1.7Array
+(
+    [ERROR_MSG] => HTTP Error: (0) SSL certificate problem: unable to get local issuer certificate
+    [TRACE_STK] => #0 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/auth/Google_OAuth2.php(97): CFGS_Google_CurlIO->makeRequest(Object(CFGS_Google_HttpRequest))
+#1 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AACv2rLP_Hlq4...')
+#2 /app/public/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AACv2rLP_Hlq4...')
+#3 /app/public/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AACv2rLP_Hlq4...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#8 {main}
+)
+30 March 2018 14:35:59 	 PHP 7.1.7Array
+(
+    [ERROR_MSG] => HTTP Error: (0) SSL certificate problem: unable to get local issuer certificate
+    [TRACE_STK] => #0 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/auth/Google_OAuth2.php(97): CFGS_Google_CurlIO->makeRequest(Object(CFGS_Google_HttpRequest))
+#1 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AAAzeHNXeUYcM...')
+#2 /app/public/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AAAzeHNXeUYcM...')
+#3 /app/public/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AAAzeHNXeUYcM...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#8 {main}
+)
+30 March 2018 14:37:12 	 PHP 7.1.7Array
+(
+    [ERROR_MSG] => HTTP Error: (0) SSL certificate problem: unable to get local issuer certificate
+    [TRACE_STK] => #0 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/auth/Google_OAuth2.php(97): CFGS_Google_CurlIO->makeRequest(Object(CFGS_Google_HttpRequest))
+#1 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AADl1nqoR5kCi...')
+#2 /app/public/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AADl1nqoR5kCi...')
+#3 /app/public/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AADl1nqoR5kCi...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#8 {main}
+)
+30 March 2018 14:37:24 	 PHP 7.1.7Array
+(
+    [ERROR_MSG] => HTTP Error: (0) SSL certificate problem: unable to get local issuer certificate
+    [TRACE_STK] => #0 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/auth/Google_OAuth2.php(97): CFGS_Google_CurlIO->makeRequest(Object(CFGS_Google_HttpRequest))
+#1 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AADl1nqoR5kCi...')
+#2 /app/public/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AADl1nqoR5kCi...')
+#3 /app/public/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AADl1nqoR5kCi...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#8 {main}
+)
+3 April 2018 16:15:00 	 PHP 7.1.7Array
+(
+    [ERROR_MSG] => Error fetching OAuth2 access token, message: 'invalid_grant'
+    [TRACE_STK] => #0 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AABeIOmNCzj6l...')
+#1 /app/public/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AABeIOmNCzj6l...')
+#2 /app/public/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AABeIOmNCzj6l...')
+#3 /app/public/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#4 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#7 {main}
+)
+3 April 2018 21:50:22 	 PHP 7.1.7Array
+(
+    [ERROR_MSG] => HTTP Error: (0) SSL certificate problem: unable to get local issuer certificate
+    [TRACE_STK] => #0 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/auth/Google_OAuth2.php(97): CFGS_Google_CurlIO->makeRequest(Object(CFGS_Google_HttpRequest))
+#1 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AAAGppspfFQ7p...')
+#2 /app/public/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AAAGppspfFQ7p...')
+#3 /app/public/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AAAGppspfFQ7p...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#8 {main}
+)
+3 April 2018 21:50:29 	 PHP 7.1.7Array
+(
+    [ERROR_MSG] => HTTP Error: (0) SSL certificate problem: unable to get local issuer certificate
+    [TRACE_STK] => #0 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/auth/Google_OAuth2.php(97): CFGS_Google_CurlIO->makeRequest(Object(CFGS_Google_HttpRequest))
+#1 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AABeIOmNCzj6l...')
+#2 /app/public/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AABeIOmNCzj6l...')
+#3 /app/public/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AABeIOmNCzj6l...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#8 {main}
+)
+3 April 2018 21:50:36 	 PHP 7.1.7Array
+(
+    [ERROR_MSG] => HTTP Error: (0) SSL certificate problem: unable to get local issuer certificate
+    [TRACE_STK] => #0 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/auth/Google_OAuth2.php(97): CFGS_Google_CurlIO->makeRequest(Object(CFGS_Google_HttpRequest))
+#1 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AABeIOmNCzj6l...')
+#2 /app/public/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AABeIOmNCzj6l...')
+#3 /app/public/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AABeIOmNCzj6l...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#8 {main}
+)
+3 April 2018 21:51:15 	 PHP 7.1.7Array
+(
+    [ERROR_MSG] => HTTP Error: (0) SSL certificate problem: unable to get local issuer certificate
+    [TRACE_STK] => #0 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/auth/Google_OAuth2.php(97): CFGS_Google_CurlIO->makeRequest(Object(CFGS_Google_HttpRequest))
+#1 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AAAGppspfFQ7p...')
+#2 /app/public/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AAAGppspfFQ7p...')
+#3 /app/public/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AAAGppspfFQ7p...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#8 {main}
+)
+3 April 2018 21:51:21 	 PHP 7.1.7Array
+(
+    [ERROR_MSG] => HTTP Error: (0) SSL certificate problem: unable to get local issuer certificate
+    [TRACE_STK] => #0 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/auth/Google_OAuth2.php(97): CFGS_Google_CurlIO->makeRequest(Object(CFGS_Google_HttpRequest))
+#1 /app/public/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AAAGppspfFQ7p...')
+#2 /app/public/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AAAGppspfFQ7p...')
+#3 /app/public/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AAAGppspfFQ7p...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /app/public/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#8 {main}
+)
+10 April 2018 16:03:17 	 PHP 7.0.29Array
+(
+    [id] => 8
+    [date] => 10 April 2018 16:03:15
+    [quel-vehicule-utilisez-vous] => 10
+    [nombre-de-km-parcourus-par-an] => 9
+    [total-deplacements] => 0
+    [type-entreprise] => Une OBNL
+    [resultat-number] => 0
+    [summary] => 
+    [section-break] => 
+    [utm] => 
+    [ERROR_MSG] => Can't find Google Sheet named 'Carboscope'
+    [TRACE_STK] => #0 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(106): cfgooglesheet->add_row(Array, true)
+#1 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/caldera-forms/classes/core.php(3207): Cfgs_Connector_Service->cfgs_publish(Array, Array, '_cf_process_5ac...')
+#2 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/caldera-forms/classes/core.php(4900): Caldera_Forms::process_submission()
+#3 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/caldera-forms/classes/core.php(3590): Caldera_Forms::process_form_via_post()
+#4 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(286): Caldera_Forms->cf_init_system('')
+#5 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /home/oxyai891/public_html/carboscope.ca/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /home/oxyai891/public_html/carboscope.ca/wp-settings.php(471): do_action('wp_loaded')
+#8 /home/oxyai891/public_html/carboscope.ca/wp-config.php(88): require_once('/home/oxyai891/...')
+#9 /home/oxyai891/public_html/carboscope.ca/wp-load.php(37): require_once('/home/oxyai891/...')
+#10 /home/oxyai891/public_html/carboscope.ca/wp-blog-header.php(13): require_once('/home/oxyai891/...')
+#11 /home/oxyai891/public_html/carboscope.ca/index.php(17): require('/home/oxyai891/...')
+#12 {main}
+)
+10 April 2018 22:36:48 	 PHP 7.0.29Array
+(
+    [ERROR_MSG] => Error fetching OAuth2 access token, message: 'invalid_grant'
+    [TRACE_STK] => #0 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AAAlvkMIk3j6R...')
+#1 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AAAlvkMIk3j6R...')
+#2 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AAAlvkMIk3j6R...')
+#3 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#4 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home/oxyai891/public_html/carboscope.ca/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /home/oxyai891/public_html/carboscope.ca/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#7 {main}
+)
+10 April 2018 22:36:49 	 PHP 7.0.29Array
+(
+    [ERROR_MSG] => Error fetching OAuth2 access token, message: 'invalid_grant'
+    [TRACE_STK] => #0 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AAAlvkMIk3j6R...')
+#1 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AAAlvkMIk3j6R...')
+#2 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AAAlvkMIk3j6R...')
+#3 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#4 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home/oxyai891/public_html/carboscope.ca/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /home/oxyai891/public_html/carboscope.ca/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#7 {main}
+)
+10 April 2018 22:36:51 	 PHP 7.0.29Array
+(
+    [ERROR_MSG] => Error fetching OAuth2 access token, message: 'invalid_grant'
+    [TRACE_STK] => #0 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AAAlvkMIk3j6R...')
+#1 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AAAlvkMIk3j6R...')
+#2 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AAAlvkMIk3j6R...')
+#3 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#4 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home/oxyai891/public_html/carboscope.ca/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /home/oxyai891/public_html/carboscope.ca/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#7 {main}
+)
+10 April 2018 22:36:53 	 PHP 7.0.29Array
+(
+    [ERROR_MSG] => Error fetching OAuth2 access token, message: 'invalid_grant'
+    [TRACE_STK] => #0 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/cf-google-sheets/lib/php-google-oauth/Google_Client.php(128): CFGS_Google_OAuth2->authenticate(Array, '4/AAAlvkMIk3j6R...')
+#1 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/cf-google-sheets/lib/google-sheets.php(27): CFGS_Google_Client->authenticate('4/AAAlvkMIk3j6R...')
+#2 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/cf-google-sheets/includes/class-cfgs-service.php(44): cfgooglesheet::preauth('4/AAAlvkMIk3j6R...')
+#3 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(286): Cfgs_Connector_Service->verify_gs_integation('')
+#4 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home/oxyai891/public_html/carboscope.ca/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /home/oxyai891/public_html/carboscope.ca/wp-admin/admin-ajax.php(97): do_action('wp_ajax_verify_...')
+#7 {main}
+)

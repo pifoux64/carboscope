@@ -5,7 +5,7 @@
         <title>Carboscope - <?= $page?> </title>
         <!-- Latest compiled and minified CSS -->
         <link href="https://fonts.googleapis.com/css?family=Lato|Montserrat" rel="stylesheet">
-        <link rel="stylesheet" href="style.css"/>
+        <link rel="stylesheet" href="style.css"/> 
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -18,6 +18,26 @@
 
 
  <div id="menusup">
+
+
+<div class="boiteaoutils">
+    <div class="col-lg-13">
+      <div class="btn-group-vertical">
+          <a class="btn btn-danger" href="#"><span class="glyphicon glyphicon-pencil"></span>&nbsp;</a>
+          <a class="btn btn-info" href="#"><span class="glyphicon glyphicon-search"></span>&nbsp;</a>
+          <a class="btn btn-warning" href="#"><span class="glyphicon glyphicon-print"></span>&nbsp;</a>
+          <a class="btn btn-success" href="#"><span class="glyphicon glyphicon-picture"></span>&nbsp;</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
         <div class="boiteaoutils">
             <script language="JavaScript" type="text/javascript">
             function doOpenWindow(MyURL){
@@ -34,7 +54,7 @@
                             </script> 
 
 
-            <a href=""><img src="information.png" alt="Informations" title="Informations" width="40" height="40"></a>
+            <a href="information.php"><img src="information.png" alt="Informations" title="Informations" width="40" height="40"></a>
         
         </div> <br/>
         <div class="reset">
@@ -47,4 +67,11 @@
 
     </head>
     <body>
-       
+                
+                
+                <?php 
+                // echo "post :";
+                // debug($_POST); 
+                // echo "session :";
+                // debug($_SESSION);
+                 ?>

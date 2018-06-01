@@ -1,0 +1,52 @@
+[11-Apr-2018 01:29:28 UTC] PHP Fatal error:  Uncaught Error: Class 'GFAPI' not found in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:156
+Stack trace:
+#0 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php(177): maxicharts_reports->getForms()
+#1 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(286): maxicharts_reports->list_gf_ajax('')
+#2 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home/oxyai891/public_html/carboscope.ca/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/oxyai891/public_html/carboscope.ca/wp-admin/admin-ajax.php(97): do_action('wp_ajax_gf_form...')
+#5 {main}
+  thrown in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php on line 156
+[11-Apr-2018 02:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'GFAPI' not found in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:156
+Stack trace:
+#0 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php(177): maxicharts_reports->getForms()
+#1 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(286): maxicharts_reports->list_gf_ajax('')
+#2 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home/oxyai891/public_html/carboscope.ca/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/oxyai891/public_html/carboscope.ca/wp-admin/admin-ajax.php(97): do_action('wp_ajax_gf_form...')
+#5 {main}
+  thrown in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php on line 156
+[13-Apr-2018 18:23:59 UTC] PHP Fatal error:  Uncaught Error: Class 'GFAPI' not found in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:156
+Stack trace:
+#0 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php(177): maxicharts_reports->getForms()
+#1 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(286): maxicharts_reports->list_gf_ajax('')
+#2 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home/oxyai891/public_html/carboscope.ca/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/oxyai891/public_html/carboscope.ca/wp-admin/admin-ajax.php(97): do_action('wp_ajax_gf_form...')
+#5 {main}
+  thrown in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php on line 156
+[13-Apr-2018 18:25:19 UTC] PHP Fatal error:  Uncaught Error: Class 'GFAPI' not found in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:156
+Stack trace:
+#0 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php(177): maxicharts_reports->getForms()
+#1 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(286): maxicharts_reports->list_gf_ajax('')
+#2 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home/oxyai891/public_html/carboscope.ca/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/oxyai891/public_html/carboscope.ca/wp-admin/admin-ajax.php(97): do_action('wp_ajax_gf_form...')
+#5 {main}
+  thrown in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php on line 156
+[13-Apr-2018 18:26:00 UTC] PHP Fatal error:  Uncaught Error: Class 'GFAPI' not found in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php:156
+Stack trace:
+#0 /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php(177): maxicharts_reports->getForms()
+#1 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(286): maxicharts_reports->list_gf_ajax('')
+#2 /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home/oxyai891/public_html/carboscope.ca/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/oxyai891/public_html/carboscope.ca/wp-admin/admin-ajax.php(97): do_action('wp_ajax_gf_form...')
+#5 {main}
+  thrown in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/gf-charts-reports/gf_charts_reports.php on line 156
+[23-Apr-2018 20:00:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Cfgs_Connector_Init' does not have a method 'cfgs_connector_deactivate' in /home/oxyai891/public_html/carboscope.ca/wp-includes/class-wp-hook.php on line 286
+[23-Apr-2018 20:01:58 UTC] PHP Warning:  require_once(/home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ocean-extra//includes/metabox/butterbean/butterbean.php): failed to open stream: No such file or directory in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ocean-extra/ocean-extra.php on line 301
+[23-Apr-2018 20:01:59 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ocean-extra//includes/metabox/butterbean/butterbean.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ocean-extra/ocean-extra.php on line 301
+[18-May-2018 13:08:14 UTC] PHP Warning:  copy() expects parameter 1 to be a valid path, object given in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ultimate-member/includes/admin/class-admin.php on line 150
+[18-May-2018 13:08:14 UTC] PHP Warning:  unlink() expects parameter 1 to be a valid path, object given in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ultimate-member/includes/admin/class-admin.php on line 151
+[18-May-2018 13:08:14 UTC] PHP Warning:  copy() expects parameter 1 to be a valid path, object given in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ultimate-member/includes/admin/class-admin.php on line 154
+[18-May-2018 13:08:14 UTC] PHP Warning:  unlink() expects parameter 1 to be a valid path, object given in /home/oxyai891/public_html/carboscope.ca/wp-content/plugins/ultimate-member/includes/admin/class-admin.php on line 155

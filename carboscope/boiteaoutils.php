@@ -13,7 +13,7 @@ require_once('header.inc.php');
     
     <div style="text-align:center;">
         <h2 class="heading">Convertisseur kWh PCS/PCI</h2>
-        <form name="formulaire" method="post" action="carboscopeboiteaoutils.php">
+        <form name="formulaire" method="post" action="boiteaoutils.php">
             <p>Quantité à convertir : <input name="nombre1" type="text" ></p>
             
             <label>Sens de la conversion : </label><select name="choix">
@@ -138,7 +138,7 @@ require_once('header.inc.php');
         <div style="text-align:center;">
             <h2 class="heading">Convertisseur de diverses unités physiques</h2>
             <h3 class="fs-subtitle">- Conversion en tep,tec, Joule, kWh PCI, BTU, m<sup>3</sup> de gaz nat. ou t de bois (20% humidité) -</h3>
-            <form name="formulaire2" method="post" action="carboscopeboiteaoutils.php">
+            <form name="formulaire2" method="post" action="boiteaoutils.php">
                 <p>Quantité à convertir : <input name="nombre2" type="text">
                 <select name="choix3">
                     <option value="tep">tep</option>

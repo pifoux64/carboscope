@@ -1,0 +1,15 @@
+
+
+<form action="resultatscarboscope.php" method="post">
+
+<p><label>Transport : <input type="number" name="totalco2transport" /></label></p>
+<p><label>Immobilisation : <input type="number" name="totalco2immobilisation" /></label></p>
+<p><label>Intrants : <input type="number" name="totalco2intrants" /></label></p>
+<p><label>Déchets : <input type="number" name="totalco2dechets" /></label></p>
+<p><label>Procédés industriels : <input type="number" name="totalco2procedes" /></label></p>
+<p><label>Énergie : <input type="number" name="totalco2energie" /></label></p>
+
+    <input type="submit" value="Voir vos résultats" />
+
+</form>
+
